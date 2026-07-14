@@ -4,18 +4,6 @@ The solution provides end-to-end visibility into trafficking and QA operations, 
 Project Type: Ad Operations Reporting Dashboard
 Domain: Digital Advertising Operations (AdOps)
 
-Business Problem
-
-Ad Operations teams handle a large volume of requests related to campaign trafficking, reporting, QA reviews, meetings, troubleshooting, and client support. Tracking these requests through spreadsheets often makes it difficult to:
-
-Monitor overall workload across team members.
-Identify peak request periods.
-Measure individual trafficker and QA performance.
-Analyze client-wise demand.
-Understand operational bottlenecks.
-Generate management-ready performance reports.
-
-Objective: Monitor, analyze, and optimize request management, trafficking workload, and QA performance through interactive business intelligence reporting.
 
 Key Features
 
