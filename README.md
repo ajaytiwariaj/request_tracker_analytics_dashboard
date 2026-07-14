@@ -1,0 +1,1 @@
+This Power BI dashboard was built using internal Ad Operations request-tracker data to monitor team workload, request distribution, placement volume, QA activities, and client-wise delivery trends. The solution provides end-to-end visibility into trafficking and QA operations, helping managers identify workload patterns, resource allocation, and process efficiency.
