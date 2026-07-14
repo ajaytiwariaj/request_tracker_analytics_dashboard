@@ -5,6 +5,7 @@ Project Type: Ad Operations Reporting Dashboard
 Domain: Digital Advertising Operations (AdOps)
 
 Business Problem
+
 Ad Operations teams handle a large volume of requests related to campaign trafficking, reporting, QA reviews, meetings, troubleshooting, and client support. Tracking these requests through spreadsheets often makes it difficult to:
 
 Monitor overall workload across team members.
