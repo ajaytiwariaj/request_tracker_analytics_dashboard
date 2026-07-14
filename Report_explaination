@@ -1,0 +1,156 @@
+Business Problem
+Ad Operations teams handle a large volume of requests related to campaign trafficking, reporting, QA reviews, meetings, troubleshooting, and client support. Tracking these requests through spreadsheets often makes it difficult to:
+
+Monitor overall workload across team members.
+Identify peak request periods.
+Measure individual trafficker and QA performance.
+Analyze client-wise demand.
+Understand operational bottlenecks.
+Generate management-ready performance reports.
+
+This dashboard addresses these challenges by providing real-time visibility into operational performance and workload patterns.
+
+Data Sources
+The dashboard utilizes data collected through an internal request-tracking system containing:
+
+Request Date
+Request Type
+Client Name
+Placement Count
+Trafficker Name
+QA Person
+Number of Requests
+Reporting Period
+QA Status and Assignment Details
+
+The data was cleaned, transformed, and modeled using Power Query and DAX to create meaningful business metrics.
+
+Dashboard Components
+1. Trafficking Performance Analysis
+The first dashboard page focuses on request management and trafficking activities.
+Key metrics include:
+
+Placement count by month.
+Placement distribution across traffickers.
+Request volume by weekday.
+Client-wise request contribution.
+Detailed request-level data table.
+
+This allows team leads and managers to understand:
+
+Which traffickers are handling the highest volume.
+Monthly workload fluctuations.
+Peak operational periods.
+High-demand clients requiring additional support.
+
+
+2. QA Performance Analysis
+The second dashboard page focuses on quality assurance activities.
+Features include:
+
+Monthly placement count reviewed by QA personnel.
+QA workload distribution across team members.
+QA contribution percentage analysis.
+Client-wise QA request breakdown.
+Detailed QA activity records.
+
+The dashboard helps identify:
+
+QA workload balancing opportunities.
+Individual QA performance.
+Clients generating the greatest QA effort.
+Monthly QA demand trends.
+
+
+Key Insights Generated
+The dashboard enables users to identify:
+Operational Trends
+
+Wednesday shows the highest request volume compared to other weekdays.
+March and June represent peak placement activity periods.
+Workload varies significantly throughout the year.
+
+Team Performance
+
+Individual contribution of traffickers and QA personnel can be compared.
+Resource allocation effectiveness becomes visible.
+Workload concentration among specific team members can be identified.
+
+Client Analysis
+
+Clients such as Klaviyo and Wella contribute a significant portion of requests.
+Client-level request patterns help forecast future operational demand.
+High-volume accounts can be prioritized for resource allocation.
+
+Process Visibility
+
+Provides end-to-end visibility from request creation to QA completion.
+Supports workload forecasting and capacity planning.
+Reduces dependency on manual reporting.
+
+
+Technical Implementation
+Power Query
+Used for:
+
+Data cleaning
+Data transformation
+Column standardization
+Data preparation
+
+Data Modeling
+Created relationships between:
+
+Request data
+Client information
+Trafficker assignments
+QA assignments
+Calendar dimensions
+
+DAX Measures
+Developed calculations for:
+
+Total Requests
+Placement Counts
+QA Volume
+Monthly Trends
+Employee Contribution Metrics
+Percentage Distribution Analysis
+
+Data Visualization
+Implemented:
+
+Clustered Column Charts
+Stacked Bar Charts
+Donut Charts
+Slicers
+Interactive Tables
+KPI Metrics
+
+
+Business Benefits
+✅ Centralized operational reporting
+✅ Improved workload visibility
+✅ Faster performance monitoring
+✅ Better resource planning and capacity management
+✅ Reduced manual reporting effort
+✅ Enhanced decision-making through data-driven insights
+✅ Improved tracking of trafficking and QA activities
+
+Skills Demonstrated
+
+Power BI Development
+Data Modeling
+Power Query (ETL)
+DAX Calculations
+Dashboard Design
+KPI Development
+Operational Analytics
+Data Visualization
+Performance Tracking
+Business Intelligence Reporting
+Ad Operations Analytics
+
+
+Project Outcome
+This project transformed raw request-tracking data into an interactive analytics platform that enables Ad Operations stakeholders to monitor team productivity, analyze request patterns, optimize resource allocation, and improve overall operational efficiency. The dashboard provides a comprehensive view of trafficking and QA workflows, helping management make informed decisions based on accurate and actionable insights.
