@@ -1,12 +1,11 @@
 Business Problem
-Ad Operations teams handle a large volume of requests related to campaign trafficking, reporting, QA reviews, meetings, troubleshooting, and client support. Tracking these requests through spreadsheets often makes it difficult to:
+Ad Operations teams handle multiple type of requests related to campaign trafficking, reporting, QA reviews, meetings, troubleshooting, and client support. Tracking these requests through spreadsheets often makes it difficult to:
 
 Monitor overall workload across team members.
 Identify peak request periods.
 Measure individual trafficker and QA performance.
 Analyze client-wise demand.
-Understand operational bottlenecks.
-Generate management-ready performance reports.
+
 
 This dashboard addresses these challenges by providing real-time visibility into operational performance and workload patterns.
 
@@ -22,6 +21,7 @@ QA Person
 Number of Requests
 Reporting Period
 QA Status and Assignment Details
+
 
 The data was cleaned, transformed, and modeled using Power Query and DAX to create meaningful business metrics.
 
@@ -89,18 +89,6 @@ Supports workload forecasting and capacity planning.
 Reduces dependency on manual reporting.
 
 
-Technical Implementation
-Power Query
-Used for:
-
-Data cleaning
-Data transformation
-Column standardization
-Data preparation
-
-Data Modeling
-Created relationships between:
-
 Request data
 Client information
 Trafficker assignments
@@ -136,20 +124,6 @@ Business Benefits
 ✅ Reduced manual reporting effort
 ✅ Enhanced decision-making through data-driven insights
 ✅ Improved tracking of trafficking and QA activities
-
-Skills Demonstrated
-
-Power BI Development
-Data Modeling
-Power Query (ETL)
-DAX Calculations
-Dashboard Design
-KPI Development
-Operational Analytics
-Data Visualization
-Performance Tracking
-Business Intelligence Reporting
-Ad Operations Analytics
 
 
 Project Outcome
