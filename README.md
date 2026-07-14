@@ -2,5 +2,6 @@ This Power BI dashboard was built using internal Ad Operations request-tracker d
 The solution provides end-to-end visibility into trafficking and QA operations, helping managers identify workload patterns, resource allocation, and process efficiency.
 
 Project Type: Ad Operations Reporting Dashboard
+
 Domain: Digital Advertising Operations (AdOps)
 
